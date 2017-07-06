@@ -1,2 +1,2 @@
-var example =  'example sring'
-example.lenght;
+var example = 'example string';
+console.log(example.length);

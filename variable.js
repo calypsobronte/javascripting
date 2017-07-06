@@ -1,2 +1,2 @@
-var ejemplo = 'hola';
-console.log(ejemplo);
+var example = 'some string';
+console.log(example);
